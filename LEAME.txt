@@ -1,0 +1,11 @@
+Ejemplo realizado por:
+Graphixx Rōninnovation
+https://www.facebook.com/groups/programadorescolombiaoficial/
+https://www.facebook.com/graphixx.roninnovation
+https://www.sistemasycontroles.net/
+
+Para compilarlo en:
+https://build.phonegap.com/apps
+solo debes comprimir la carpeta www junto con el archivo config.xml
+
+Este codigo esta hecho solo para la version Android.
